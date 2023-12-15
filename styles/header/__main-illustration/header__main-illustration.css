@@ -1,0 +1,17 @@
+/* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
+.header__main-illustration {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  max-height: 608px;
+  max-width: 765px;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1;
+}
+.header__main-illustration img {
+  height: 100%;
+  width: 100%;
+}

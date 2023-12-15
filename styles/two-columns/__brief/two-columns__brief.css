@@ -1,0 +1,9 @@
+.two-columns__brief h2 {
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  font-size: 18px;
+  line-height: 1.2;
+  font-weight: normal;
+  width: 175px;
+  color: #2f80ed;
+  margin: 0;
+}
